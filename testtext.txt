@@ -1,1 +1,2 @@
 here is a simple text to try
+here is the second line to consider
