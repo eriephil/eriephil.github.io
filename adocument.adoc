@@ -1,0 +1,31 @@
+:toc: auto
+:attribute: phil
+:lang: german
+:text-align: center
+
+
+
+= here is the title
+
+== subtitle here
+
+=== another entry
+
+
+WARNING:pay attention
+
+
+ .. _here is some text_
+
+ .... _line two_
+
+ ....... *line three*
+
+image::Pictures/CAT-IRISH.JPG[300,400]
+
+image::philcouch.jpg[300,400]
+
+
+#phil#
+
+
