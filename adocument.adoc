@@ -7,7 +7,7 @@
 
 = here is the NEWEST  title  -- NOTE this is now corrected
 
-== subtitle here
+== subtitle here  -- revised sat Jan 17
 
 === another entry
 
