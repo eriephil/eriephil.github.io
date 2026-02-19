@@ -1,0 +1,28 @@
+[.text-center]
+= *Phil's daily events*
+
+
+:toc:
+
+image::images/owl-2-april23.JPG[Owl 2023, height = "600", width = "800" align = "center]
+
+.Owl nestling
+****
+[.text-center]
+Taken at PI park early 2023
+
+****
+
+== Feb 17 2026
+Notice blue dots on the trees. These are marked by logging operation proposed by LS Country Club.
+
+image::images/woods-2026-02-17-1.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-2.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-3.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-4.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-5.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-6.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-7.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-8.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-9.JPG" height = "300" width = "400" align = "center"]
+== Feb 18 2026
