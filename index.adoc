@@ -18,11 +18,11 @@ Notice blue dots on the trees. These are marked by logging operation proposed by
 
 image::images/woods-2026-02-17-1.JPG[height = "300" width = "400" align = "center"]
 image::images/woods-2026-02-17-2.JPG[height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-3.JPG" height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-4.JPG" height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-5.JPG" height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-6.JPG" height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-7.JPG" height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-8.JPG" height = "300" width = "400" align = "center"]
-image::images/woods-2026-02-17-9.JPG" height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-3.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-4.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-5.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-6.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-7.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-8.JPG[height = "300" width = "400" align = "center"]
+image::images/woods-2026-02-17-9.JPG[height = "300" width = "400" align = "center"]
 == Feb 18 2026
