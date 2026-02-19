@@ -1,6 +1,6 @@
 [.text-center]
 = *Phil's daily events*
-
+:doctype: book
 :toc:
 
 image::images/owl-2-april23.JPG[Owl 2023, height = "400", width = "600"]
