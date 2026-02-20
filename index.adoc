@@ -1,7 +1,7 @@
 [.text-center]
-= *Phil's daily events*
+= *Phil's daily events* 
 :doctype: book
-:toc:
+:toc: 
 
 image::images/owl-2-april23.JPG[Owl 2023, height = "400", width = "600"]
 
@@ -24,6 +24,7 @@ image::images/woods-2026-02-17-6.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-17-7.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-17-8.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-17-9.JPG[height = "300", width = "400"]
+
 == Feb 18 2026
 image::images/woods-2026-02-18-1.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-18-2.JPG[height = "300", width = "400"]
@@ -32,8 +33,9 @@ image::images/woods-2026-02-18-4.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-18-5.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-18-6.JPG[height = "300", width = "400"]
 image::images/woods-2026-02-18-7.JPG[height = "300", width = "400"]
-== Feb 19 2026
 
+
+== Feb 19 2026
 image::images/fog-2026-02-19-2.JPG[height = "300", width = "400"]
 image::images/fog-2026-02-19-4.JPG[height = "300", width = "400"]
 image::images/fog-2026-02-19-6.JPG[height = "300", width = "400"]
@@ -43,3 +45,12 @@ image::images/fog-2026-02-19-12.JPG[height = "300", width = "400"]
 image::images/fog-2026-02-19-16.JPG[height = "300", width = "400"]
 image::images/fog-2026-02-19-17.JPG[height = "300", width = "400"]
 image::images/fog-2026-02-19-18.JPG[height = "300", width = "400"]
+
+== Feb 20 2026
+image::images/lake-2026-02-20-1.JPG[height = "300", width = "400"]
+image::images/lake-2026-02-20-2.JPG[height = "300", width = "400"]
+image::images/lake-2026-02-20-3.JPG[height = "300", width = "400"]
+image::images/lake-2026-02-20-4.JPG[height = "300", width = "400"]
+image::images/lake-2026-02-20-5.JPG[height = "300", width = "400"]
+image::images/lake-2026-02-20-6.JPG[height = "300", width = "400"]
+image::images/lake-2026-02-20-7.JPG[height = "300", width = "400"]
