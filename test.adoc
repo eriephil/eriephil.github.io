@@ -1,0 +1,59 @@
+
+Created on Mon Mar 30 16:54:08 2026
+
+hello from Erie
+
+another paragraph which may show some new stuff here +
+there is another line
+
+[.lead]
+roses are red
+violets are blue
+rain is clear
+
+*bold*
+_other_
+**__hello there__**
+[.line-through]#here is a strikeout#
+
+^super^script
+
+https://asciidoctor.org[Asciidoctor]
+
+link:index.html[Docs]
+
+[[bookmark-a]] Inline anchor
+
+
+
+[.left, text-center]
+.Image A
+image::images/bulldozer-A.JPG[A,400,600, title=trees general]
+
+[.left]
+.Image B
+image::images/bulldozer-B.JPG[B,400,600,title=Bert house seen from the front] 
+
+[.left]
+.Image C
+image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
+
+[.left]
+.Image C
+image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
+
+[.left]
+.Image C
+image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
+
+[.left]
+.Image C
+image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
+
+
+
+
+
+
+
+
