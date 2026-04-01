@@ -1,59 +1,43 @@
 
-Created on Mon Mar 30 16:54:08 2026
+= test page from phil
+PHILIP SYMES
+:author: philip symes
+:toc: left
+:imagesdir: images
+:sectnums:
+:icons: font
 
-hello from Erie
+
+== hello from Erie PA
 
 another paragraph which may show some new stuff here +
 there is another line
 
-[.lead]
-roses are red
-violets are blue
-rain is clear
+[[poetry]]
+== some poetry
 
-*bold*
-_other_
-**__hello there__**
-[.line-through]#here is a strikeout#
+== some pictures
 
-^super^script
+.Tree debri lying on the ground after deforestation.
+image::bulldozer-A.JPG[bulldozer-A,400,600,role=thumb right, align=right]
+here is some text to go with the picture. It shows some reslst of the logging deforestation that we have seen at LSCC over the last several weeks. Very sad.
 
-https://asciidoctor.org[Asciidoctor]
+---
 
-link:index.html[Docs]
+.another picture of the deforestation
+image::bulldozer-B.JPG[trees on ground, 400, 600, role=thumb right]
+some more text indicating the [.lime-background]#bad things# that can happen when loggers get out of control. They had [underline]#no supervision# and now we are dealing with total [.red]#devastation#, unfortunately image:bulldozer-C.JPG[dozer,50,50].
 
-[[bookmark-a]] Inline anchor
+---
 
+<<poetry, some poems>>
 
+WARNING: poems can be toxic
 
-[.left, text-center]
-.Image A
-image::images/bulldozer-A.JPG[A,400,600, title=trees general]
-
-[.left]
-.Image B
-image::images/bulldozer-B.JPG[B,400,600,title=Bert house seen from the front] 
-
-[.left]
-.Image C
-image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
-
-[.left]
-.Image C
-image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
-
-[.left]
-.Image C
-image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
-
-[.left]
-.Image C
-image::images/bulldozer-C.JPG[B,400,600,title=ravine] 
-
-
-
-
-
-
-
-
+[%header%footer,cols="<,^,^",grid=all]
+,===
+col1, col2, col3
+one,two,three
+four,five,six
+total1,total2,total3
+,===

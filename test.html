@@ -4,8 +4,9 @@
 <meta charset="UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="generator" content="Asciidoctor 2.0.20">
-<title>Untitled</title>
+<meta name="generator" content="Asciidoctor 2.0.26">
+<meta name="author" content="philip symes">
+<title>test page from phil</title>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic%7CNoto+Serif:400,400italic,700,700italic%7CDroid+Sans+Mono:400,700">
 <style>
 /*! Asciidoctor default stylesheet | MIT License | https://asciidoctor.org */
@@ -116,7 +117,6 @@ h1 strong,h2 strong,h3 strong,#toctitle strong,.sidebarblock>.content>.title str
 :not(pre):not([class^=L])>code{font-size:.9375em;font-style:normal!important;letter-spacing:0;padding:.1em .5ex;word-spacing:-.15em;background:#f7f7f8;border-radius:4px;line-height:1.45;text-rendering:optimizeSpeed}
 pre{color:rgba(0,0,0,.9);font-family:"Droid Sans Mono","DejaVu Sans Mono",monospace;line-height:1.45;text-rendering:optimizeSpeed}
 pre code,pre pre{color:inherit;font-size:inherit;line-height:inherit}
-pre>code{display:block}
 pre.nowrap,pre.nowrap pre{white-space:pre;word-wrap:normal}
 em em{font-style:normal}
 strong strong{font-weight:400}
@@ -140,7 +140,7 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #content::before{content:none}
 #header>h1:first-child{color:rgba(0,0,0,.85);margin-top:2.25rem;margin-bottom:0}
 #header>h1:first-child+#toc{margin-top:8px;border-top:1px solid #dddddf}
-#header>h1:only-child,body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
+#header>h1:only-child{border-bottom:1px solid #dddddf;padding-bottom:8px}
 #header .details{border-bottom:1px solid #dddddf;line-height:1.45;padding-top:.25em;padding-bottom:.25em;padding-left:.25em;color:rgba(0,0,0,.6);display:flex;flex-flow:row wrap}
 #header .details span:first-child{margin-left:-.125em}
 #header .details span.email a{color:rgba(0,0,0,.85)}
@@ -162,6 +162,7 @@ p a>code:hover{color:rgba(0,0,0,.9)}
 #toctitle{color:#7a2518;font-size:1.2em}
 @media screen and (min-width:768px){#toctitle{font-size:1.375em}
 body.toc2{padding-left:15em;padding-right:0}
+body.toc2 #header>h1:nth-last-child(2){border-bottom:1px solid #dddddf;padding-bottom:8px}
 #toc.toc2{margin-top:0!important;background:#f8f8f7;position:fixed;width:15em;left:0;top:0;border-right:1px solid #e7e7e9;border-top-width:0!important;border-bottom-width:0!important;z-index:1000;padding:1.25em 1em;height:100%;overflow:auto}
 #toc.toc2 #toctitle{margin-top:0;margin-bottom:.8rem;font-size:1.2em}
 #toc.toc2>ul{font-size:.9em;margin-bottom:0}
@@ -218,6 +219,7 @@ table.tableblock.fit-content>caption.title{white-space:nowrap;width:0}
 .literalblock pre,.listingblock>.content>pre:not(.highlight),.listingblock>.content>pre[class=highlight],.listingblock>.content>pre[class^="highlight "]{background:#f7f7f8}
 .literalblock.output pre{color:#f7f7f8;background:rgba(0,0,0,.9)}
 .listingblock>.content{position:relative}
+.listingblock pre>code{display:block}
 .listingblock code[data-lang]::before{display:none;content:attr(data-lang);position:absolute;font-size:.75em;top:.425rem;right:.5rem;line-height:1;text-transform:uppercase;color:inherit;opacity:.5}
 .listingblock:hover code[data-lang]::before{display:block}
 .listingblock.terminal pre .command::before{content:attr(data-prompt);padding-right:.5em;color:inherit;opacity:.5}
@@ -327,7 +329,7 @@ a.image{text-decoration:none;display:inline-block}
 a.image object{pointer-events:none}
 sup.footnote,sup.footnoteref{font-size:.875em;position:static;vertical-align:super}
 sup.footnote a,sup.footnoteref a{text-decoration:none}
-sup.footnote a:active,sup.footnoteref a:active{text-decoration:underline}
+sup.footnote a:active,sup.footnoteref a:active,#footnotes .footnote a:first-of-type:active{text-decoration:underline}
 #footnotes{padding-top:.75em;padding-bottom:.75em;margin-bottom:.625em}
 #footnotes hr{width:20%;min-width:6.25em;margin:-.25em 0 .75em;border-width:1px 0 0}
 #footnotes .footnote{padding:0 .375em 0 .225em;line-height:1.3334;font-size:.875em;margin-left:1.2em;margin-bottom:.2em}
@@ -432,84 +434,116 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 #footer-text{color:rgba(0,0,0,.6);font-size:.9em}}
 @media amzn-kf8{#header,#content,#footnotes,#footer{padding:0}}
 </style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
-<body class="article">
+<body class="article toc2 toc-left">
 <div id="header">
+<h1>test page from phil</h1>
+<div class="details">
+<span id="author" class="author">philip symes</span><br>
+</div>
+<div id="toc" class="toc2">
+<div id="toctitle">Table of Contents</div>
+<ul class="sectlevel1">
+<li><a href="#_hello_from_erie_pa">1. hello from Erie PA</a></li>
+<li><a href="#poetry">2. some poetry</a></li>
+<li><a href="#_some_pictures">3. some pictures</a></li>
+</ul>
+</div>
 </div>
 <div id="content">
-<div class="paragraph">
-<p>Created on Mon Mar 30 16:54:08 2026</p>
-</div>
-<div class="paragraph">
-<p>hello from Erie</p>
-</div>
+<div class="sect1">
+<h2 id="_hello_from_erie_pa">1. hello from Erie PA</h2>
+<div class="sectionbody">
 <div class="paragraph">
 <p>another paragraph which may show some new stuff here<br>
 there is another line</p>
 </div>
-<div class="paragraph lead">
-<p>roses are red
-violets are blue
-rain is clear</p>
+</div>
+</div>
+<div class="sect1">
+<h2 id="poetry">2. some poetry</h2>
+<div class="sectionbody">
+
+</div>
+</div>
+<div class="sect1">
+<h2 id="_some_pictures">3. some pictures</h2>
+<div class="sectionbody">
+<div class="imageblock text-right thumb right">
+<div class="content">
+<img src="images/bulldozer-A.JPG" alt="bulldozer-A" width="400" height="600">
+</div>
+<div class="title">Figure 1. Tree debri lying on the ground after deforestation.</div>
 </div>
 <div class="paragraph">
-<p><strong>bold</strong>
-<em>other</em>
-<strong><em>hello there</em></strong>
-<span class="line-through">here is a strikeout</span></p>
+<p>here is some text to go with the picture. It shows some reslst of the logging deforestation that we have seen at LSCC over the last several weeks. Very sad.</p>
+</div>
+<hr>
+<div class="imageblock thumb right">
+<div class="content">
+<img src="images/bulldozer-B.JPG" alt="trees on ground" width="400" height="600">
+</div>
+<div class="title">Figure 2. another picture of the deforestation</div>
 </div>
 <div class="paragraph">
-<p><sup>super</sup>script</p>
+<p>some more text indicating the <span class="lime-background">bad things</span> that can happen when loggers get out of control. They had <span class="underline">no supervision</span> and now we are dealing with total <span class="red">devastation</span>, unfortunately <span class="image"><img src="images/bulldozer-C.JPG" alt="dozer" width="50" height="50"></span>.</p>
 </div>
+<hr>
 <div class="paragraph">
-<p><a href="https://asciidoctor.org">Asciidoctor</a></p>
+<p><a href="#poetry">some poems</a></p>
 </div>
-<div class="paragraph">
-<p><a href="index.html">Docs</a></p>
+<div class="admonitionblock warning">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-warning" title="Warning"></i>
+</td>
+<td class="content">
+poems can be toxic
+</td>
+</tr>
+</table>
 </div>
-<div class="paragraph">
-<p><a id="bookmark-a"></a> Inline anchor</p>
+<table class="tableblock frame-all grid-all stretch">
+<colgroup>
+<col style="width: 33.3333%;">
+<col style="width: 33.3333%;">
+<col style="width: 33.3334%;">
+</colgroup>
+<thead>
+<tr>
+<th class="tableblock halign-left valign-top">col1</th>
+<th class="tableblock halign-center valign-top">col2</th>
+<th class="tableblock halign-center valign-top">col3</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">one</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">two</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">three</p></td>
+</tr>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">four</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">five</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">six</p></td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td class="tableblock halign-left valign-top"><p class="tableblock">total1</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">total2</p></td>
+<td class="tableblock halign-center valign-top"><p class="tableblock">total3</p></td>
+</tr>
+</tfoot>
+</table>
 </div>
-<div class="imageblock left">
-<div class="content">
-<img src="images/bulldozer-A.JPG" alt="A" width="400" height="600">
-</div>
-<div class="title">Figure 1. trees general</div>
-</div>
-<div class="imageblock left">
-<div class="content">
-<img src="images/bulldozer-B.JPG" alt="B" width="400" height="600">
-</div>
-<div class="title">Figure 2. Bert house seen from the front</div>
-</div>
-<div class="imageblock left">
-<div class="content">
-<img src="images/bulldozer-C.JPG" alt="B" width="400" height="600">
-</div>
-<div class="title">Figure 3. ravine</div>
-</div>
-<div class="imageblock left">
-<div class="content">
-<img src="images/bulldozer-C.JPG" alt="B" width="400" height="600">
-</div>
-<div class="title">Figure 4. ravine</div>
-</div>
-<div class="imageblock left">
-<div class="content">
-<img src="images/bulldozer-C.JPG" alt="B" width="400" height="600">
-</div>
-<div class="title">Figure 5. ravine</div>
-</div>
-<div class="imageblock left">
-<div class="content">
-<img src="images/bulldozer-C.JPG" alt="B" width="400" height="600">
-</div>
-<div class="title">Figure 6. ravine</div>
 </div>
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2026-03-30 19:22:55 -0400
+Last updated 2026-04-01 10:26:46 -0400
 </div>
 </div>
 </body>
