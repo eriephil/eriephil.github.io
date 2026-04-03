@@ -10,16 +10,16 @@
 
 == [.green]#woods prior to logging#
 
-.A picture of the woods prior to logging. Notice abundant trees. Blue dots indicate trees to be harvested.
-image::./before_logging/before_logging-1.JPG[trees Feb 2026 before logging,400,600,role = right,align=center]
-image::./before_logging/before_logging-2.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-3.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-4.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-5.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-6.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-7.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-8.JPG[trees Feb 2026 before logging,400,600,role = right]
-image::./before_logging/before_logging-9.JPG[trees Feb 2026 before logging,400,600,role = right]
+picture of the woods prior to logging. Notice abundant trees. Blue dots indicate trees to be harvested.
+
+image::./before_logging/before_logging-1.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-2.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-3.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-4.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-5.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-6.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-8.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
+image::./before_logging/before_logging-9.JPG[trees Feb 2026 before logging,400,600,role = thumb,right]
 ---
 {empty} +
  
@@ -27,15 +27,16 @@ image::./before_logging/before_logging-9.JPG[trees Feb 2026 before logging,400,6
  
 == [.green]#woods after logging#
 
-.A picture of the woods after logging. Notice abundant trees. LSCC has no further plans to clean up debris, as far as I can tell.
-image::./after_logging/after_logging-1.JPG[trees Feb 2026 after logging,400,600,role = right,align=center]
-image::./after_logging/after_logging-2.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_logging/after_logging-3.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_logging/after_logging-4.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_logging/after_logging-5.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_logging/after_logging-6.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_logging/after_logging-7.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_logging/after_logging-8.JPG[trees Feb 2026 after logging,400,600,role = right]
+The woods after logging. Notice abundant abandoned remnants. LSCC has no further plans to clean up debris, as far as I can tell.
+
+image::./after_logging/after_logging-1.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-2.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-3.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-4.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-5.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-6.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-7.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./after_logging/after_logging-8.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
 ---
 
 {empty} +
@@ -44,13 +45,13 @@ image::./after_logging/after_logging-8.JPG[trees Feb 2026 after logging,400,600,
 
 == [.green]#debris bull-dozed into ravine#
 
-.A picture of the forest remnants which were pushed into ravine feeding into lake Erie.
+A picture of the forest remnants which were pushed into ravine feeding into lake Erie.
 
-image::./debris_ravine/debris_ravine-1.JPG[trees Feb 2026 showing debris in ravine,400,600,role = right,align=center]
-image::./debris_ravine/debris_ravine-2.JPG[trees Feb 2026 showing debris in ravine,400,600,role = right]
-image::./debris_ravine/debris_ravine-3.JPG[trees Feb 2026 showing debris in ravine,400,600,role = right]
-image::./debris_ravine/debris_ravine-4.JPG[trees Feb 2026 showing debris in ravine,400,600,role = right]
-image::./debris_ravine/debris_ravine-5.JPG[trees Feb 2026 showing debris in ravine,400,600,role = right]
+image::./debris_ravine/debris_ravine-1.JPG[trees Feb 2026 showing debris in ravine,400,600,role = thumb,right]
+image::./debris_ravine/debris_ravine-2.JPG[trees Feb 2026 showing debris in ravine,400,600,role = thumb,right]
+image::./debris_ravine/debris_ravine-3.JPG[trees Feb 2026 showing debris in ravine,400,600,role = thumb,right]
+image::./debris_ravine/debris_ravine-4.JPG[trees Feb 2026 showing debris in ravine,400,600,role = thumb,right]
+image::./debris_ravine/debris_ravine-5.JPG[trees Feb 2026 showing debris in ravine,400,600,role = thumb,right]
 
 ---
 
@@ -60,14 +61,41 @@ image::./debris_ravine/debris_ravine-5.JPG[trees Feb 2026 showing debris in ravi
 
 == [.green]#woods after windstorm#
 
-.A picture of the woods after a windstorm. Notice many uprooted and fallen trees, some of which threaten damage to buildings. Trees removed facing Lake Erie previously provided a buffer from the lake winds.
-image::./after_windstorm/after_windstorm-1.JPG[trees Feb 2026 after logging,400,600,role = right,align=center]
-image::./after_windstorm/after_windstorm-2.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_windstorm/after_windstorm-3.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_windstorm/after_windstorm-4.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_windstorm/after_windstorm-5.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_windstorm/after_windstorm-6.JPG[trees Feb 2026 after logging,400,600,role = right]
-image::./after_windstorm/after_windstorm-7.JPG[trees Feb 2026 after logging,400,600,role = right]
+A picture of the woods after a windstorm. Notice many uprooted and fallen trees, some of which threaten damage to buildings. Trees removed facing Lake Erie previously provided a buffer from the lake winds.
+
+.Neighbor just south of my house
+image::./after_windstorm/after_windstorm-1.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+.Neighbor just north of my house
+image::./after_windstorm/after_windstorm-2.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+.My property survey. Letters correspond to trees which fell after windstorm
+image::./after_windstorm/after_windstorm-3.JPG[trees Feb 2026 after logging,400,600,role = thumb,right, align = right]
+.Tree A on my property
+image::./after_windstorm/after_windstorm-4.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+.Tree B on my property
+image::./after_windstorm/after_windstorm-5.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+.Tree C on my property
+image::./after_windstorm/after_windstorm-6.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+.Tree D on my property
+image::./after_windstorm/after_windstorm-7.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+
+---
+
+{empty} +
+
+<<top, back to top>>
+
+== [.green]#pictures of wetlands around my house#
+
+
+pictures taken April 3 showing wetland areas in, and adjacent to, logged areas
+
+image::./wetlands/wetlands-1.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./wetlands/wetlands-2.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./wetlands/wetlands-3.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./wetlands/wetlands-4.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./wetlands/wetlands-5.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./wetlands/wetlands-6.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
+image::./wetlands/wetlands-7.JPG[trees Feb 2026 after logging,400,600,role = thumb,right]
 
 ---
 
