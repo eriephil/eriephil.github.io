@@ -1,4 +1,4 @@
-
+﻿
 = logging Lakes Shore Country Club, Feb 2026
 :toc: left
 :sectnums:
